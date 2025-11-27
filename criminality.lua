@@ -1,6 +1,3 @@
--- ts file was generated at discord.gg/25ms
-
-
 local v_u_1_ = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
 local v2_ = v_u_1_:CreateWindow({
     Name = "FEMBOYSHUB PAID PREMIUM :3",
